@@ -19,3 +19,13 @@ var nome = "João Pedro"
 if(nome == "João Pedro"){
     console.log("Seu nome é", nome)
 }
+
+/*
+    Operador	        Significado
+    >	                maior que
+    <	                menor que
+    >=	                maior ou igual
+    <=	                menor ou igual
+    ===	                igual (valor e tipo)
+    !==	                diferente (valor e tipo)
+    */
